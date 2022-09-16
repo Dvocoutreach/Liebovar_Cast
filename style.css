@@ -64,6 +64,16 @@ h1 {
   }
 }
 
+/* footer styles */
+
 footer {
   text-align: center;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
